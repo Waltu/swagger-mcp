@@ -1,0 +1,23 @@
+# Source files
+src/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+biome.json
+vitest.config.ts
+.gitignore
+
+# Test files
+*.test.ts
+*.spec.ts
+coverage/
+
+# Development files
+.vscode/
+.idea/
+
+# Documentation source
+*.md
+!README.md
